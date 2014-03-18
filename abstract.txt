@@ -1,0 +1,65 @@
+Title: Of Paradise to You
+Style: 2d, side scrolling, 'helicopter game'
+level: we limit at most 3 scenes., randomly generated levels.
+two modes: delivery: specific path
+arcade mode: randomly generated 'helicopter style' as long as you could 
+OR 'round the world' path of levels, random start,
+
+round the world:
+until program exits, same path of randomly assorted levels
+when program exits, new path.
+
+delivery method: 
+map is a composed of component parts. 
+think map as a collecton of scenes, sort of a story of the environment.
+input: where are you?
+direction: where are you going
+an algorith that finds the clotest points inbetweens 
+
+arcade: 
+randomized assortment of scenes of maps.
+
+level ideas:
+easter island:
+1. beach/heads, heads with large open mouths that serve as portals to scene two
+mario-pipe style animation for transition
+2. underground,
+cave with bunnies throwning colorful eggs, avoid the eggs and avoid stalactites, and stalagmites
+
+
+control: 
+primarly: gyroscope, with up and down.
+optional: should be tap to go up.
+
+consistent pace, only shooting would need speed up slow down.
+
+menu interaction:
+3 buttons:
+1 arcade
+2 story
+3 options:
+
+menu color scheme: pastel, bright, sunset.
+
+mechanics:
+avoiding borders
+throwing
+eggs for easter island
+trash for nyc
+weather elements, depending stage. 
+wind, to make going up and down more difficult
+rain, to keep you down
+sunny to keep you up
+
+randomize letter, from a set  of letters, to a null end point
+but if people wanted to send someone they would submit an end point.
+
+
+network connectivity:
+scoreboard: 
+time - arcade
+length traveled - round the world
+email capability for delivery.
+
+
+
